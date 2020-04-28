@@ -1,0 +1,139 @@
+.bg-videos {
+    width: 29px;
+    height: 29px;
+    background: url('css_sprites.png') -860px -10px;
+}
+
+.bg-shopping {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -690px -690px;
+}
+
+
+.bg-send {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -520px -690px;
+}
+
+.bg-news {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -350px -690px;
+}
+
+.bg-mic {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -690px;
+}
+
+
+.bg-maps {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -690px;
+}
+
+.bg-mag_google_color {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -690px -520px;
+}
+
+.bg-mag_glass {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -690px -350px;
+}
+
+
+.bg-like {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -690px -180px;
+}
+
+.bg-images {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -690px -10px;
+}
+
+.bg-help {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -520px -520px;
+}
+
+.bg-feedback {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -350px -520px;
+}
+
+.bg-flights {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -520px;
+}
+
+
+.bg-Finance {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -520px;
+}
+
+.bg-down_chevron {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -520px -350px;
+}
+
+
+.bg-dot_menu {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -520px -180px;
+}
+
+
+.bg-dislike {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -520px -10px;
+}
+
+.bg-corss {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -350px -350px;
+}
+
+
+.bg-circle_grid_menu {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -350px;
+}
+
+.bg-chev_down {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -350px;
+}
+
+
+.bg-camera {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -350px -180px;
+}
+
+
+.bg-books {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -350px -10px;
+}
+
+.bg-arrow_right {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -180px;
+}
+
+.bg-arrow_left {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -180px;
+}
+
+.bg-add {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -10px;
+}
+
+.bg-add_user {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -10px;
+}
