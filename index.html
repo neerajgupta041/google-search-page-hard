@@ -622,6 +622,27 @@
             
         </div>
     </div>
+    <script>
+    
+        var topBar = document.querySelector('.top-bar');
+        var sticky = "sticky";
+        var header = document.querySelector('header');
+        var headerHeight = header.offsetHeight;
+       
+
+      
+
+        document.addEventListener('scroll', function(e){
+            console.log("Evenet fired");
+            if(window.scrollY > headerHeight) {
+                topBar.classList.add(sticky);
+                header.style = "padding-left:0;"
+            } else {
+                topBar.classList.remove(sticky);
+                header.style = "padding-left:28px";
+            }
+        });
+    </script>
 </body>
 </html>
 
