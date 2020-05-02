@@ -1,4 +1,4 @@
-# This website is created as a part of theOdinProject's exercise.
+# This website is created as a part of [theodinproject](https://www.theodinproject.com) exercise.
 
-# Search Icon credit : Font Awesome
-# Remaining Icon Source : Google Search Page
+- Search Icon credit : Font Awesome
+- Remaining Icon Source : Google Search Page
