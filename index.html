@@ -16,7 +16,7 @@
                 </div>
                 
                 <div class="search">
-                        <input type="text" id="search" name="search" class="search-input" />
+                        <input type="text" id="search" name="search" class="search-input" value="Build this page" />
                         <div class="voice-command"></div>
                         <i class="fas fa-search"></i>
                 </div>
@@ -623,15 +623,10 @@
         </div>
     </div>
     <script>
-    
         var topBar = document.querySelector('.top-bar');
         var sticky = "sticky";
         var header = document.querySelector('header');
         var headerHeight = header.offsetHeight;
-       
-
-      
-
         document.addEventListener('scroll', function(e){
             console.log("Evenet fired");
             if(window.scrollY > headerHeight) {
